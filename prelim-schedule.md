@@ -8,7 +8,7 @@ Room|Team 1|Score|Team 2
 2|Hunter A||Tenafly B
 3|Hotchkiss A||Wilton
 4|Island Trees B||North Babylon B
-5|Hunter B||Tenafly B
+5|Hunter B||Tenafly A
 6|Hotchkiss B||"West Egg"
 7|"Mather"||Wheatley
 8|Island Trees A||North Babylon A
