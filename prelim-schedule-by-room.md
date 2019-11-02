@@ -52,7 +52,7 @@ Round|Team 1|Score|Team 2
 
 Round|Team 1|Score|Team 2
 :---:|:---:|:---:|:---:
-1|Hunter B||Tenafly B
+1|Hunter B||Tenafly A
 2|Island Trees A||Hunter B
 3|Wheatley||Island Trees A
 4|Hotchkiss B||Wheatley
