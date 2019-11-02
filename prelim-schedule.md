@@ -4,27 +4,27 @@
 
 Room|Team 1|Score|Team 2
 :---:|:---:|:---:|:---:
-1|Hunter C||Ridgewood
-2|Hunter A||Tenafly B
-3|Hotchkiss A||Wilton
-4|Island Trees B||North Babylon B
-5|Hunter B||Tenafly A
-6|Hotchkiss B||"West Egg"
-7|"Mather"||Wheatley
-8|Island Trees A||North Babylon A
+1|Hunter C|320-280|Ridgewood
+2|Hunter A|625-50|Tenafly B
+3|Hotchkiss A|390-190|Wilton
+4|Island Trees B|Bye|North Babylon B
+5|Hunter B|260-325|Tenafly A
+6|Hotchkiss B|60-260|"West Egg"
+7|"Mather"|425-165|Wheatley
+8|Island Trees A|Bye|North Babylon A
 
 ### Round 2
 
 Room|Team 1|Score|Team 2
 :---:|:---:|:---:|:---:
-1|Island Trees B||Hunter C
-2|Hotchkiss A||Tenafly B
-3|Wilton||Ridgewood
-4|Hunter A||North Babylon B
-5|Island Trees A||Hunter B
-6|"Mather"||"West Egg"
-7|Wheatley||Tenafly A
-8|Hotchkiss B||North Babylon A
+1|Island Trees B|Bye|Hunter C
+2|Hotchkiss A|550-75|Tenafly B
+3|Wilton|150-370|Ridgewood
+4|Hunter A|595-50|North Babylon B
+5|Island Trees A|Bye|Hunter B
+6|"Mather"|470-100|"West Egg"
+7|Wheatley|290-350|Tenafly A
+8|Hotchkiss B|55-180|North Babylon A
 
 ### Round 3
 
