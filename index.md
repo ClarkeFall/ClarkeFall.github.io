@@ -1,5 +1,5 @@
 # 2019 Clarke Fall Tournament I
 
-Nothing yet. Check back closer to the tournament date on November 2nd. 
+[Standings](https://clarkefall.github.io/standings.md)
 
-If you have any questions contact `clarke [dot] quizbowl [at] gmail.com`.
+[Full Prelim Schedule](https://clarkefall.github.io/prelim-schedule.md)
