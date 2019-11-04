@@ -2,6 +2,6 @@
 
 Thanks for coming! We hope to see you again next year.
 
-Forum Post: https://hsquizbowl.org/forums/viewtopic.php?t=22848
+Forum Post: [https://hsquizbowl.org/forums/viewtopic.php?t=22848](https://hsquizbowl.org/forums/viewtopic.php?t=22848)
 
-Database Entry: https://hsquizbowl.org/db/tournaments/5811/
+Database Entry: [https://hsquizbowl.org/db/tournaments/5811/](https://hsquizbowl.org/db/tournaments/5811/)
