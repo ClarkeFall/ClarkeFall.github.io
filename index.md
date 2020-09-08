@@ -1,7 +1,5 @@
-# 2019 Clarke Fall Tournament I
+# Do chairs exist?
 
-Thanks for coming! We hope to see you again next year.
+Obviously. @Jackson @Griffin @Sahil.
 
-Forum Post: [https://hsquizbowl.org/forums/viewtopic.php?t=22848](https://hsquizbowl.org/forums/viewtopic.php?t=22848)
-
-Database Entry: [https://hsquizbowl.org/db/tournaments/5811/](https://hsquizbowl.org/db/tournaments/5811/)
+Jamil knows what's up.
